@@ -80,3 +80,5 @@ labels = [c.get_label() for c in curves]
 ax1.legend(curves, labels, loc="center right")
 
 plt.show()
+
+print('Successfully ran the test.py script!')
